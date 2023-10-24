@@ -1,0 +1,587 @@
+2023-10-13T19:41:15.234Z info: 🟢 Connected to the database
+2023-10-13T19:43:03.196Z info: 🟢 Connected to the database
+2023-10-13T19:43:05.318Z info: 🟢 Connected to the database
+2023-10-13T19:43:20.076Z info: 🟢 Connected to the database
+2023-10-13T19:44:08.090Z info: 🟢 Connected to the database
+2023-10-13T19:44:16.393Z info: 🟢 Connected to the database
+2023-10-13T19:45:04.218Z info: 🟢 Connected to the database
+2023-10-13T19:45:11.029Z info: 🟢 Connected to the database
+2023-10-15T15:46:35.055Z info: 🟢 Server on port",3000 
+2023-10-15T15:46:35.072Z info: 🟢 Connected to the database
+2023-10-15T15:47:59.776Z info: 🟢 app listening on the port",3000 
+2023-10-15T15:47:59.792Z info: 🟢 Connected to the database
+2023-10-15T15:48:20.251Z info: 🟢 app listening on the port"3000 
+2023-10-15T15:48:20.264Z info: 🟢 Connected to the database
+2023-10-15T15:48:26.637Z info: 🟢 app listening on the port" 3000 
+2023-10-15T15:48:26.651Z info: 🟢 Connected to the database
+2023-10-15T15:51:14.486Z info: 🟢 app listening on the port" 3000 
+2023-10-15T15:51:14.500Z info: 🟢 Connected to the database
+2023-10-15T15:51:57.204Z info: 🟢 app listening on the port" 3000 
+2023-10-15T15:51:57.217Z info: 🟢 Connected to the database
+2023-10-15T16:02:00.796Z info: 🟢 app listening on the port" 3000 
+2023-10-15T16:02:00.811Z info: 🟢 Connected to the database
+2023-10-15T16:08:28.060Z info: 🟢 app listening on the port" 3000 
+2023-10-15T16:08:28.075Z info: 🟢 Connected to the database
+2023-10-15T16:10:44.667Z info: 🟢 app listening on the port" 3000 
+2023-10-15T16:10:44.680Z info: 🟢 Connected to the database
+2023-10-15T16:12:11.081Z info: 🟢 app listening on the port" 3000 
+2023-10-15T16:12:11.096Z info: 🟢 Connected to the database
+2023-10-15T16:16:58.520Z info: 🟢 app listening on the port" 3000 
+2023-10-15T16:16:58.534Z info: 🟢 Connected to the database
+2023-10-15T16:18:42.471Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-15T16:18:42.472Z error: Error 400 - La contraseña debe tener al menos 6 caracteres
+2023-10-15T16:19:09.312Z error: Validation Error: El email no es válido
+2023-10-15T16:19:09.313Z error: Error 400 - El email no es válido
+2023-10-16T21:51:31.990Z info: 🟢 app listening on the port" 3000 
+2023-10-16T21:51:32.015Z info: 🟢 Connected to the database
+2023-10-17T00:32:14.201Z info: 🟢 app listening on the port" 3000 
+2023-10-17T00:32:14.216Z info: 🟢 Connected to the database
+2023-10-20T03:34:45.074Z info: 🟢 app listening on the port" 3000 
+2023-10-20T03:34:45.123Z info: 🟢 Connected to the database
+2023-10-20T03:39:59.181Z info: 🟢 app listening on the port" 3000 
+2023-10-20T03:39:59.210Z info: 🟢 Connected to the database
+2023-10-20T03:40:22.515Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "pablo" }
+2023-10-20T03:43:43.623Z info: 🟢 app listening on the port" 3000 
+2023-10-20T03:43:43.661Z info: 🟢 Connected to the database
+2023-10-20T03:51:57.880Z info: 🟢 app listening on the port" 3000 
+2023-10-20T03:51:57.909Z info: 🟢 Connected to the database
+2023-10-20T03:54:41.251Z info: 🟢 Routes registered
+2023-10-20T03:54:41.266Z info: 🟢 app listening on the port" 3000 
+2023-10-20T03:54:41.306Z info: 🟢 Connected to the database
+2023-10-20T03:55:03.581Z info: 🟢 Middlewares configurated
+2023-10-20T03:55:03.588Z info: 🟢 Routes registered
+2023-10-20T03:55:03.601Z info: 🟢 app listening on the port" 3000 
+2023-10-20T03:55:03.634Z info: 🟢 Connected to the database
+2023-10-20T04:07:28.544Z info: 🟢 Middlewares configurated
+2023-10-20T04:07:28.552Z info: 🟢 Routes registered
+2023-10-20T04:07:28.563Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:07:28.598Z info: 🟢 Connected to the database
+2023-10-20T04:15:25.216Z info: 🟢 Middlewares configurated
+2023-10-20T04:15:25.220Z info: 🟢 Routes registered
+2023-10-20T04:15:25.224Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:15:25.236Z info: 🟢 Connected to the database
+2023-10-20T04:20:12.173Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-20T04:20:23.257Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-20T04:20:44.052Z error: Error function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+} - Internal Server Error
+2023-10-20T04:21:26.189Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-20T04:24:43.566Z error: Error function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+} - Internal Server Error
+2023-10-20T04:29:54.602Z info: 🟢 Middlewares configurated
+2023-10-20T04:29:54.607Z info: 🟢 Routes registered
+2023-10-20T04:29:54.615Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:29:54.632Z info: 🟢 Connected to the database
+2023-10-20T04:31:18.003Z info: 🟢 Middlewares configurated
+2023-10-20T04:31:18.007Z info: 🟢 Routes registered
+2023-10-20T04:31:18.012Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:31:18.030Z info: 🟢 Connected to the database
+2023-10-20T04:37:22.066Z info: 🟢 Middlewares configurated
+2023-10-20T04:37:22.069Z info: 🟢 Routes registered
+2023-10-20T04:37:22.076Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:37:22.091Z info: 🟢 Connected to the database
+2023-10-20T04:38:11.706Z info: 🟢 Middlewares configurated
+2023-10-20T04:38:11.709Z info: 🟢 Routes registered
+2023-10-20T04:38:11.714Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:38:11.727Z info: 🟢 Connected to the database
+2023-10-20T04:50:58.960Z info: 🟢 Middlewares configurated
+2023-10-20T04:50:58.963Z info: 🟢 Routes registered
+2023-10-20T04:50:58.970Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:50:58.982Z info: 🟢 Connected to the database
+2023-10-20T04:52:24.661Z info: 🟢 Middlewares configurated
+2023-10-20T04:52:24.666Z info: 🟢 Routes registered
+2023-10-20T04:52:24.672Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:52:24.693Z info: 🟢 Connected to the database
+2023-10-20T04:53:18.303Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "termo" }
+2023-10-20T04:53:23.413Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "termo" }
+2023-10-20T04:54:30.744Z info: 🟢 Middlewares configurated
+2023-10-20T04:54:30.748Z info: 🟢 Routes registered
+2023-10-20T04:54:30.754Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:54:30.767Z info: 🟢 Connected to the database
+2023-10-20T04:54:33.977Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "termo1" }
+2023-10-20T04:54:56.584Z info: 🟢 Middlewares configurated
+2023-10-20T04:54:56.588Z info: 🟢 Routes registered
+2023-10-20T04:54:56.593Z info: 🟢 app listening on the port" 3000 
+2023-10-20T04:54:56.606Z info: 🟢 Connected to the database
+2023-10-20T04:55:15.249Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "casa" }
+2023-10-20T04:59:34.879Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "auto1" }
+2023-10-20T05:00:08.228Z info: 🟢 Middlewares configurated
+2023-10-20T05:00:08.231Z info: 🟢 Routes registered
+2023-10-20T05:00:08.238Z info: 🟢 app listening on the port" 3000 
+2023-10-20T05:00:08.253Z info: 🟢 Connected to the database
+2023-10-20T05:00:25.206Z info: 🟢 Middlewares configurated
+2023-10-20T05:00:25.209Z info: 🟢 Routes registered
+2023-10-20T05:00:25.214Z info: 🟢 app listening on the port" 3000 
+2023-10-20T05:00:25.226Z info: 🟢 Connected to the database
+2023-10-20T05:01:32.653Z info: 🟢 Middlewares configurated
+2023-10-20T05:01:32.657Z info: 🟢 Routes registered
+2023-10-20T05:01:32.663Z info: 🟢 app listening on the port" 3000 
+2023-10-20T05:01:32.675Z info: 🟢 Connected to the database
+2023-10-20T05:01:50.491Z info: 🟢 Middlewares configurated
+2023-10-20T05:01:50.498Z info: 🟢 Routes registered
+2023-10-20T05:01:50.505Z info: 🟢 app listening on the port" 3000 
+2023-10-20T05:01:50.520Z info: 🟢 Connected to the database
+2023-10-20T05:02:05.692Z error: Error 400 - Expected double-quoted property name in JSON at position 111
+2023-10-20T05:03:04.382Z error: Error 500 - Products validation failed: imagenUrl: la url debe estar 
+2023-10-20T05:03:18.134Z error: Error 500 - Products validation failed: imagenUrl: la url debe estar 
+2023-10-20T05:05:05.722Z info: 🟢 Middlewares configurated
+2023-10-20T05:05:05.726Z info: 🟢 Routes registered
+2023-10-20T05:05:05.731Z info: 🟢 app listening on the port" 3000 
+2023-10-20T05:05:05.753Z info: 🟢 Connected to the database
+2023-10-21T03:12:20.705Z info: 🟢 Middlewares configurated
+2023-10-21T03:12:20.709Z info: 🟢 Routes registered
+2023-10-21T03:12:20.717Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:12:20.747Z info: 🟢 Connected to the database
+2023-10-21T03:19:55.873Z info: 🟢 Middlewares configurated
+2023-10-21T03:19:55.876Z info: 🟢 Routes registered
+2023-10-21T03:19:55.880Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:19:55.894Z info: 🟢 Connected to the database
+2023-10-21T03:26:07.280Z info: 🟢 Middlewares configurated
+2023-10-21T03:26:07.284Z info: 🟢 Routes registered
+2023-10-21T03:26:07.295Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:26:07.313Z info: 🟢 Connected to the database
+2023-10-21T03:26:13.499Z info: 🟢 Middlewares configurated
+2023-10-21T03:26:13.503Z info: 🟢 Routes registered
+2023-10-21T03:26:13.510Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:26:13.527Z info: 🟢 Connected to the database
+2023-10-21T03:27:36.745Z error: Error 400 - The user is already registered
+2023-10-21T03:30:27.308Z info: 🟢 Middlewares configurated
+2023-10-21T03:30:27.315Z info: 🟢 Routes registered
+2023-10-21T03:30:27.322Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:30:27.348Z info: 🟢 Connected to the database
+2023-10-21T03:30:29.831Z info: 🟢 Middlewares configurated
+2023-10-21T03:30:29.835Z info: 🟢 Routes registered
+2023-10-21T03:30:29.841Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:30:29.860Z info: 🟢 Connected to the database
+2023-10-21T03:30:47.646Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:31:34.527Z error: Error 400 - Unexpected non-whitespace character after JSON at position 143
+2023-10-21T03:31:46.154Z error: Error 400 - Unexpected non-whitespace character after JSON at position 145
+2023-10-21T03:31:59.193Z error: Error 400 - Unexpected non-whitespace character after JSON at position 141
+2023-10-21T03:32:29.702Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:33:03.014Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:33:26.298Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:34:04.271Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:34:22.855Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:34:43.782Z info: 🟢 Middlewares configurated
+2023-10-21T03:34:43.789Z info: 🟢 Routes registered
+2023-10-21T03:34:43.801Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:34:43.820Z info: 🟢 Connected to the database
+2023-10-21T03:34:54.105Z info: 🟢 Middlewares configurated
+2023-10-21T03:34:54.110Z info: 🟢 Routes registered
+2023-10-21T03:34:54.116Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:34:54.136Z info: 🟢 Connected to the database
+2023-10-21T03:35:13.900Z info: 🟢 Middlewares configurated
+2023-10-21T03:35:13.904Z info: 🟢 Routes registered
+2023-10-21T03:35:13.908Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:35:13.920Z info: 🟢 Connected to the database
+2023-10-21T03:35:19.868Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:37:34.489Z info: 🟢 Middlewares configurated
+2023-10-21T03:37:34.493Z info: 🟢 Routes registered
+2023-10-21T03:37:34.499Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:37:34.519Z info: 🟢 Connected to the database
+2023-10-21T03:39:03.082Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:39:09.734Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-21T03:42:47.014Z info: 🟢 Middlewares configurated
+2023-10-21T03:42:47.017Z info: 🟢 Routes registered
+2023-10-21T03:42:47.021Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:42:47.030Z info: 🟢 Connected to the database
+2023-10-21T03:43:21.955Z info: 🟢 Middlewares configurated
+2023-10-21T03:43:21.962Z info: 🟢 Routes registered
+2023-10-21T03:43:21.970Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:43:21.991Z info: 🟢 Connected to the database
+2023-10-21T03:43:59.950Z info: 🟢 Middlewares configurated
+2023-10-21T03:43:59.954Z info: 🟢 Routes registered
+2023-10-21T03:43:59.959Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:43:59.971Z info: 🟢 Connected to the database
+2023-10-21T03:56:47.040Z info: 🟢 Middlewares configurated
+2023-10-21T03:56:47.045Z info: 🟢 Routes registered
+2023-10-21T03:56:47.053Z info: 🟢 app listening on the port" 3000 
+2023-10-21T03:56:47.071Z info: 🟢 Connected to the database
+2023-10-21T04:01:47.393Z info: 🟢 Middlewares configurated
+2023-10-21T04:01:47.398Z info: 🟢 Routes registered
+2023-10-21T04:01:47.406Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:01:47.431Z info: 🟢 Connected to the database
+2023-10-21T04:08:08.119Z info: 🟢 Middlewares configurated
+2023-10-21T04:08:08.123Z info: 🟢 Routes registered
+2023-10-21T04:08:08.129Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:08:08.148Z info: 🟢 Connected to the database
+2023-10-21T04:08:55.231Z info: 🟢 Middlewares configurated
+2023-10-21T04:08:55.235Z info: 🟢 Routes registered
+2023-10-21T04:08:55.241Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:08:55.259Z info: 🟢 Connected to the database
+2023-10-21T04:09:52.276Z info: 🟢 Middlewares configurated
+2023-10-21T04:09:52.280Z info: 🟢 Routes registered
+2023-10-21T04:09:52.287Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:09:52.304Z info: 🟢 Connected to the database
+2023-10-21T04:10:30.917Z info: 🟢 Middlewares configurated
+2023-10-21T04:10:30.923Z info: 🟢 Routes registered
+2023-10-21T04:10:30.929Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:10:30.952Z info: 🟢 Connected to the database
+2023-10-21T04:10:35.882Z info: 🟢 Middlewares configurated
+2023-10-21T04:10:35.886Z info: 🟢 Routes registered
+2023-10-21T04:10:35.893Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:10:35.916Z info: 🟢 Connected to the database
+2023-10-21T04:11:17.572Z info: 🟢 Middlewares configurated
+2023-10-21T04:11:17.578Z info: 🟢 Routes registered
+2023-10-21T04:11:17.585Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:11:17.602Z info: 🟢 Connected to the database
+2023-10-21T04:13:44.404Z info: 🟢 Middlewares configurated
+2023-10-21T04:13:44.409Z info: 🟢 Routes registered
+2023-10-21T04:13:44.420Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:13:44.437Z info: 🟢 Connected to the database
+2023-10-21T04:13:46.678Z info: 🟢 Middlewares configurated
+2023-10-21T04:13:46.683Z info: 🟢 Routes registered
+2023-10-21T04:13:46.691Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:13:46.711Z info: 🟢 Connected to the database
+2023-10-21T04:14:35.464Z info: 🟢 Middlewares configurated
+2023-10-21T04:14:35.468Z info: 🟢 Routes registered
+2023-10-21T04:14:35.474Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:14:35.493Z info: 🟢 Connected to the database
+2023-10-21T04:16:45.600Z info: 🟢 Middlewares configurated
+2023-10-21T04:16:45.604Z info: 🟢 Routes registered
+2023-10-21T04:16:45.610Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:16:45.628Z info: 🟢 Connected to the database
+2023-10-21T04:40:08.265Z info: 🟢 Middlewares configurated
+2023-10-21T04:40:08.269Z info: 🟢 Routes registered
+2023-10-21T04:40:08.276Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:40:08.291Z info: 🟢 Connected to the database
+2023-10-21T04:40:20.885Z error: Error 404 - User not found
+2023-10-21T04:40:27.292Z error: Error 400 - The user is already registered
+2023-10-21T04:42:57.291Z error: Validation Error: Invalid value, el nombre debe tener al menos 3 caracteres y maximo 20,todo deve estar en minuscula, debe tener longitud minima de 10 caracteres, el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T04:42:57.292Z error: Error 400 - Invalid value, el nombre debe tener al menos 3 caracteres y maximo 20,todo deve estar en minuscula, debe tener longitud minima de 10 caracteres, el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T04:43:14.690Z error: Validation Error: debe tener longitud minima de 10 caracteres, el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T04:43:14.691Z error: Error 400 - debe tener longitud minima de 10 caracteres, el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T04:43:25.323Z error: Validation Error: debe tener longitud minima de 10 caracteres, la url de la imagen no es valida
+2023-10-21T04:43:25.324Z error: Error 400 - debe tener longitud minima de 10 caracteres, la url de la imagen no es valida
+2023-10-21T04:43:47.475Z error: Validation Error: la url de la imagen no es valida
+2023-10-21T04:43:47.476Z error: Error 400 - la url de la imagen no es valida
+2023-10-21T04:46:37.248Z error: Error 500 - Cast to ObjectId failed for value "65320a6533571936562dd71155e6f34d947f35a3f29fc876" (type string) at path "_id" for model "Products"
+2023-10-21T04:59:10.009Z info: 🟢 Middlewares configurated
+2023-10-21T04:59:10.013Z info: 🟢 Routes registered
+2023-10-21T04:59:10.018Z info: 🟢 app listening on the port" 3000 
+2023-10-21T04:59:10.035Z info: 🟢 Connected to the database
+2023-10-21T05:11:39.778Z info: 🟢 Middlewares configurated
+2023-10-21T05:11:39.783Z info: 🟢 Routes registered
+2023-10-21T05:11:39.791Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:11:39.814Z info: 🟢 Connected to the database
+2023-10-21T05:11:42.544Z info: 🟢 Middlewares configurated
+2023-10-21T05:11:42.549Z info: 🟢 Routes registered
+2023-10-21T05:11:42.556Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:11:42.573Z info: 🟢 Connected to the database
+2023-10-21T05:15:27.101Z info: 🟢 Middlewares configurated
+2023-10-21T05:15:27.109Z info: 🟢 Routes registered
+2023-10-21T05:15:27.119Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:15:27.149Z info: 🟢 Connected to the database
+2023-10-21T05:15:29.210Z info: 🟢 Middlewares configurated
+2023-10-21T05:15:29.213Z info: 🟢 Routes registered
+2023-10-21T05:15:29.219Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:15:29.236Z info: 🟢 Connected to the database
+2023-10-21T05:16:36.137Z info: 🟢 Middlewares configurated
+2023-10-21T05:16:36.144Z info: 🟢 Routes registered
+2023-10-21T05:16:36.151Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:16:36.167Z info: 🟢 Connected to the database
+2023-10-21T05:18:36.669Z info: 🟢 Middlewares configurated
+2023-10-21T05:18:36.673Z info: 🟢 Routes registered
+2023-10-21T05:18:36.680Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:18:36.699Z info: 🟢 Connected to the database
+2023-10-21T05:18:57.182Z info: 🟢 Middlewares configurated
+2023-10-21T05:18:57.186Z info: 🟢 Routes registered
+2023-10-21T05:18:57.192Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:18:57.206Z info: 🟢 Connected to the database
+2023-10-21T05:19:10.772Z info: 🟢 Middlewares configurated
+2023-10-21T05:19:10.775Z info: 🟢 Routes registered
+2023-10-21T05:19:10.782Z info: 🟢 app listening on the port" 3000 
+2023-10-21T05:19:10.799Z info: 🟢 Connected to the database
+2023-10-21T05:19:39.929Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-10-21T05:19:39.930Z error: Error 400 - El ID proporcionado no es válido para MongoDB.
+2023-10-21T22:51:27.047Z info: 🟢 Middlewares configurated
+2023-10-21T22:51:27.051Z info: 🟢 Routes registered
+2023-10-21T22:51:27.058Z info: 🟢 app listening on the port" 3000 
+2023-10-21T22:51:27.083Z info: 🟢 Connected to the database
+2023-10-21T22:52:56.823Z error: Error function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+} - Internal Server Error
+2023-10-21T22:53:47.533Z error: Validation Error: la url de la imagen no es valida
+2023-10-21T22:53:47.533Z error: Error 400 - la url de la imagen no es valida
+2023-10-21T22:54:03.902Z error: Error function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+} - Internal Server Error
+2023-10-21T22:54:08.107Z error: Error 500 - invalid token
+2023-10-21T22:57:30.481Z error: Error function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+} - Internal Server Error
+2023-10-21T22:57:51.023Z error: Error 500 - invalid token
+2023-10-21T22:57:59.331Z error: Error 400 - Missing data in the request
+2023-10-21T22:59:03.673Z error: Error 400 - Missing data in the request
+2023-10-21T22:59:05.351Z error: Error 400 - Missing data in the request
+2023-10-21T22:59:17.704Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-21T22:59:17.705Z error: Error 400 - La contraseña debe tener al menos 6 caracteres
+2023-10-21T22:59:31.272Z info: 🟢 Middlewares configurated
+2023-10-21T22:59:31.276Z info: 🟢 Routes registered
+2023-10-21T22:59:31.283Z info: 🟢 app listening on the port" 3000 
+2023-10-21T22:59:31.299Z info: 🟢 Connected to the database
+2023-10-21T23:00:19.541Z error: Error 400 - The user is already registered
+2023-10-21T23:01:53.084Z error: Error 500 - Cast to ObjectId failed for value "1" (type string) at path "_id" for model "User"
+2023-10-21T23:03:19.478Z error: Error 500 - invalid token
+2023-10-21T23:03:21.308Z error: Error 500 - invalid token
+2023-10-21T23:03:39.886Z error: Validation Error: el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T23:03:39.887Z error: Error 400 - el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T23:06:36.978Z error: Validation Error: la url de la imagen no es valida
+2023-10-21T23:06:36.979Z error: Error 400 - la url de la imagen no es valida
+2023-10-21T23:10:32.059Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-10-21T23:10:32.062Z error: Error 400 - El ID proporcionado no es válido para MongoDB.
+2023-10-21T23:13:40.683Z info: 🟢 Middlewares configurated
+2023-10-21T23:13:40.687Z info: 🟢 Routes registered
+2023-10-21T23:13:40.694Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:13:40.712Z info: 🟢 Connected to the database
+2023-10-21T23:13:42.729Z error: Validation Error: El ID proporcionado no es válido para MongoDB.
+2023-10-21T23:13:42.730Z error: Error 400 - El ID proporcionado no es válido para MongoDB.
+2023-10-21T23:13:49.481Z info: 🟢 Middlewares configurated
+2023-10-21T23:13:49.483Z info: 🟢 Routes registered
+2023-10-21T23:13:49.488Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:13:49.502Z info: 🟢 Connected to the database
+2023-10-21T23:17:07.228Z error: Validation Error: el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T23:17:07.230Z error: Error 400 - el precio no debe ser negativo, la url de la imagen no es valida
+2023-10-21T23:20:18.830Z info: 🟢 Middlewares configurated
+2023-10-21T23:20:18.832Z info: 🟢 Routes registered
+2023-10-21T23:20:18.837Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:20:18.849Z info: 🟢 Connected to the database
+2023-10-21T23:20:20.286Z info: 🟢 Middlewares configurated
+2023-10-21T23:20:20.289Z info: 🟢 Routes registered
+2023-10-21T23:20:20.292Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:20:20.304Z info: 🟢 Connected to the database
+2023-10-21T23:20:26.177Z error: Error 400 - Expected double-quoted property name in JSON at position 113
+2023-10-21T23:20:31.197Z error: Validation Error: la url de la imagen no es valida
+2023-10-21T23:20:31.198Z error: Error 400 - la url de la imagen no es valida
+2023-10-21T23:21:02.867Z info: 🟢 Middlewares configurated
+2023-10-21T23:21:02.869Z info: 🟢 Routes registered
+2023-10-21T23:21:02.873Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:21:02.883Z info: 🟢 Connected to the database
+2023-10-21T23:23:55.181Z info: 🟢 Middlewares configurated
+2023-10-21T23:23:55.184Z info: 🟢 Routes registered
+2023-10-21T23:23:55.188Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:23:55.199Z info: 🟢 Connected to the database
+2023-10-21T23:24:00.587Z error: Validation Error: la url de la imagen no es valida
+2023-10-21T23:24:00.588Z error: Error 400 - la url de la imagen no es valida
+2023-10-21T23:24:08.224Z error: Validation Error: la url de la imagen no es valida
+2023-10-21T23:24:08.225Z error: Error 400 - la url de la imagen no es valida
+2023-10-21T23:24:09.967Z error: Validation Error: la url de la imagen no es valida
+2023-10-21T23:24:09.969Z error: Error 400 - la url de la imagen no es valida
+2023-10-21T23:24:26.136Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "ferrari1" }
+2023-10-21T23:29:35.263Z info: 🟢 Middlewares configurated
+2023-10-21T23:29:35.267Z info: 🟢 Routes registered
+2023-10-21T23:29:35.274Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:29:35.289Z info: 🟢 Connected to the database
+2023-10-21T23:30:42.550Z info: 🟢 Middlewares configurated
+2023-10-21T23:30:42.552Z info: 🟢 Routes registered
+2023-10-21T23:30:42.557Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:30:42.570Z info: 🟢 Connected to the database
+2023-10-21T23:30:49.828Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "ferrari1" }
+2023-10-21T23:30:50.950Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.products index: nombre_1 dup key: { nombre: "ferrari1" }
+2023-10-21T23:31:17.027Z error: Error 400 - Missing data in the request
+2023-10-21T23:31:41.106Z error: Error 400 - Missing data in the request
+2023-10-21T23:32:21.864Z error: Error 400 - Missing data in the request
+2023-10-21T23:33:34.503Z error: Error 400 - Expected ',' or '}' after property value in JSON at position 111
+2023-10-21T23:33:40.393Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:33:59.284Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:36:11.392Z info: 🟢 Middlewares configurated
+2023-10-21T23:36:11.394Z info: 🟢 Routes registered
+2023-10-21T23:36:11.398Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:36:11.409Z info: 🟢 Connected to the database
+2023-10-21T23:36:12.615Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:36:13.675Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:37:09.622Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:38:30.662Z info: 🟢 Middlewares configurated
+2023-10-21T23:38:30.665Z info: 🟢 Routes registered
+2023-10-21T23:38:30.668Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:38:30.679Z info: 🟢 Connected to the database
+2023-10-21T23:38:33.533Z error: Error 400 - The user is already registered
+2023-10-21T23:38:35.709Z error: Error 400 - The user is already registered
+2023-10-21T23:38:36.497Z error: Error 400 - The user is already registered
+2023-10-21T23:38:37.713Z error: Error 400 - The user is already registered
+2023-10-21T23:38:38.596Z error: Error 400 - The user is already registered
+2023-10-21T23:38:42.285Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:38:43.278Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:39:02.650Z info: 🟢 Middlewares configurated
+2023-10-21T23:39:02.653Z info: 🟢 Routes registered
+2023-10-21T23:39:02.657Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:39:02.668Z info: 🟢 Connected to the database
+2023-10-21T23:39:04.404Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:39:05.373Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:39:23.717Z error: Error 400 - The user is already registered
+2023-10-21T23:39:51.130Z error: Error 400 - The user is already registered
+2023-10-21T23:40:13.025Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:41:31.966Z info: 🟢 Middlewares configurated
+2023-10-21T23:41:31.968Z info: 🟢 Routes registered
+2023-10-21T23:41:31.972Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:41:31.984Z info: 🟢 Connected to the database
+2023-10-21T23:41:53.244Z info: 🟢 Middlewares configurated
+2023-10-21T23:41:53.247Z info: 🟢 Routes registered
+2023-10-21T23:41:53.251Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:41:53.263Z info: 🟢 Connected to the database
+2023-10-21T23:42:34.412Z info: 🟢 Middlewares configurated
+2023-10-21T23:42:34.414Z info: 🟢 Routes registered
+2023-10-21T23:42:34.418Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:42:34.430Z info: 🟢 Connected to the database
+2023-10-21T23:42:47.012Z info: 🟢 Middlewares configurated
+2023-10-21T23:42:47.015Z info: 🟢 Routes registered
+2023-10-21T23:42:47.019Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:42:47.029Z info: 🟢 Connected to the database
+2023-10-21T23:42:47.714Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:42:49.171Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:43:19.789Z info: 🟢 Middlewares configurated
+2023-10-21T23:43:19.792Z info: 🟢 Routes registered
+2023-10-21T23:43:19.798Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:43:19.811Z info: 🟢 Connected to the database
+2023-10-21T23:43:22.361Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:45:25.354Z info: 🟢 Middlewares configurated
+2023-10-21T23:45:25.357Z info: 🟢 Routes registered
+2023-10-21T23:45:25.361Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:45:25.372Z info: 🟢 Connected to the database
+2023-10-21T23:45:27.022Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-21T23:45:44.081Z info: 🟢 Middlewares configurated
+2023-10-21T23:45:44.084Z info: 🟢 Routes registered
+2023-10-21T23:45:44.089Z info: 🟢 app listening on the port" 3000 
+2023-10-21T23:45:44.099Z info: 🟢 Connected to the database
+2023-10-21T23:45:48.934Z error: Error 500 - E11000 duplicate key error collection: database-parcial-cuatro.users index: descripcion_1 dup key: { descripcion: null }
+2023-10-22T04:27:57.344Z info: 🟢 Middlewares configurated
+2023-10-22T04:27:57.346Z info: 🟢 Routes registered
+2023-10-22T04:27:57.352Z info: 🟢 app listening on the port" 3000 
+2023-10-22T04:27:57.372Z info: 🟢 Connected to the database
+2023-10-22T04:33:02.180Z error: Validation Error: La contraseña debe tener al menos 6 caracteres, El rol debe ser 'admin' o 'usuario'
+2023-10-22T04:33:02.182Z error: Error 400 - La contraseña debe tener al menos 6 caracteres, El rol debe ser 'admin' o 'usuario'
+2023-10-22T04:33:33.955Z error: Error 500 - User validation failed: imagenUrl: La url es obligatoria
+2023-10-22T04:37:28.895Z error: Error 400 - The user is already registered
+2023-10-22T04:37:41.631Z error: Error 500 - invalid signature
+2023-10-22T04:38:02.849Z error: Error 500 - invalid signature
+2023-10-22T04:39:05.665Z error: Error 500 - invalid signature
+2023-10-22T04:40:05.983Z error: Error 500 - invalid signature
+2023-10-22T04:41:43.226Z error: Error 400 - The user is already registered
+2023-10-22T04:53:25.101Z error: Error 401 - Invalid Password
+2023-10-22T04:53:33.212Z error: Error 404 - User not found
+2023-10-22T04:56:45.357Z error: Error 500 - invalid token
+2023-10-22T04:56:55.560Z error: Error 400 - The user is already registered
+2023-10-22T04:58:11.178Z info: 🟢 Middlewares configurated
+2023-10-22T04:58:11.180Z info: 🟢 Routes registered
+2023-10-22T04:58:11.186Z info: 🟢 app listening on the port" 3000 
+2023-10-22T04:58:11.202Z info: 🟢 Connected to the database
+2023-10-22T04:58:13.628Z error: Error 400 - The user is already registered
+2023-10-22T04:58:55.289Z info: 🟢 Middlewares configurated
+2023-10-22T04:58:55.292Z info: 🟢 Routes registered
+2023-10-22T04:58:55.300Z info: 🟢 app listening on the port" 3000 
+2023-10-22T04:58:55.315Z info: 🟢 Connected to the database
+2023-10-22T04:58:58.354Z error: Error 400 - este usuario ya fue registrado
+2023-10-22T05:28:52.783Z info: 🟢 Middlewares configurated
+2023-10-22T05:28:52.791Z info: 🟢 Routes registered
+2023-10-22T05:28:52.800Z info: 🟢 app listening on the port" 3000 
+2023-10-22T05:28:52.824Z info: 🟢 Connected to the database
+2023-10-22T05:28:54.254Z info: 🟢 Middlewares configurated
+2023-10-22T05:28:54.259Z info: 🟢 Routes registered
+2023-10-22T05:28:54.264Z info: 🟢 app listening on the port" 3000 
+2023-10-22T05:28:54.280Z info: 🟢 Connected to the database
+2023-10-22T05:29:01.707Z info: 🟢 Middlewares configurated
+2023-10-22T05:29:01.709Z info: 🟢 Routes registered
+2023-10-22T05:29:01.715Z info: 🟢 app listening on the port" 3000 
+2023-10-22T05:29:01.730Z info: 🟢 Connected to the database
+2023-10-24T02:02:00.968Z info: 🟢 Middlewares configurated
+2023-10-24T02:02:00.970Z info: 🟢 Routes registered
+2023-10-24T02:02:00.976Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:02:00.997Z info: 🟢 Connected to the database
+2023-10-24T02:02:15.777Z error: Error 400 - este usuario ya fue registrado
+2023-10-24T02:05:06.984Z error: Error 401 - Invalid Password
+2023-10-24T02:09:35.170Z error: Error 401 - Invalid Password
+2023-10-24T02:10:41.336Z error: Error 400 - Unexpected token } in JSON at position 37
+2023-10-24T02:10:47.047Z error: Validation Error: La contraseña debe tener al menos 6 caracteres
+2023-10-24T02:10:47.048Z error: Error 400 - La contraseña debe tener al menos 6 caracteres
+2023-10-24T02:10:58.340Z error: Error 401 - Invalid Password
+2023-10-24T02:12:03.210Z info: 🟢 Middlewares configurated
+2023-10-24T02:12:03.213Z info: 🟢 Routes registered
+2023-10-24T02:12:03.218Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:12:03.233Z info: 🟢 Connected to the database
+2023-10-24T02:12:05.854Z info: 🟢 Middlewares configurated
+2023-10-24T02:12:05.857Z info: 🟢 Routes registered
+2023-10-24T02:12:05.862Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:12:05.877Z info: 🟢 Connected to the database
+2023-10-24T02:12:28.964Z info: 🟢 Middlewares configurated
+2023-10-24T02:12:28.967Z info: 🟢 Routes registered
+2023-10-24T02:12:28.972Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:12:28.988Z info: 🟢 Connected to the database
+2023-10-24T02:16:58.256Z error: Error 500 - jwt expired
+2023-10-24T02:17:28.770Z error: Error function status(code) {
+  if ((typeof code === 'string' || Math.floor(code) !== code) && code > 99 && code < 1000) {
+    deprecate('res.status(' + JSON.stringify(code) + '): use res.status(' + Math.floor(code) + ') instead')
+  }
+  this.statusCode = code;
+  return this;
+} - Internal Server Error
+2023-10-24T02:17:57.787Z info: 🟢 Middlewares configurated
+2023-10-24T02:17:57.790Z info: 🟢 Routes registered
+2023-10-24T02:17:57.796Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:17:57.811Z info: 🟢 Connected to the database
+2023-10-24T02:18:02.211Z error: Error 400 - este usuario ya fue registrado
+2023-10-24T02:18:20.491Z error: Error 500 - invalid token
+2023-10-24T02:20:00.666Z info: 🟢 Middlewares configurated
+2023-10-24T02:20:00.668Z info: 🟢 Routes registered
+2023-10-24T02:20:00.675Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:20:00.693Z info: 🟢 Connected to the database
+2023-10-24T02:20:02.813Z error: Error 500 - invalid token
+2023-10-24T02:20:50.759Z info: 🟢 Middlewares configurated
+2023-10-24T02:20:50.762Z info: 🟢 Routes registered
+2023-10-24T02:20:50.767Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:20:50.782Z info: 🟢 Connected to the database
+2023-10-24T02:21:08.589Z error: Error 500 - invalid token
+2023-10-24T02:29:54.812Z error: Error 404 - User not found
+2023-10-24T02:43:28.298Z info: 🟢 Middlewares configurated
+2023-10-24T02:43:28.300Z info: 🟢 Routes registered
+2023-10-24T02:43:28.305Z info: 🟢 app listening on the port" 3000 
+2023-10-24T02:43:28.320Z info: 🟢 Connected to the database
+2023-10-24T18:04:01.669Z info: 🟢 Middlewares configurated
+2023-10-24T18:04:01.671Z info: 🟢 Routes registered
+2023-10-24T18:04:01.676Z info: 🟢 app listening on the port" 3000 
+2023-10-24T18:04:01.691Z info: 🟢 Connected to the database
+2023-10-24T18:05:14.835Z error: Error 400 - The user is already registered
+2023-10-24T18:09:31.165Z error: Error 401 - usuario no existe
+2023-10-24T18:09:55.294Z error: Error 401 - usuario no existe
+2023-10-24T18:10:28.290Z error: Error 400 - este usuario ya fue registrado
+2023-10-24T18:10:50.012Z error: Error 401 - usuario no existe
+2023-10-24T18:12:20.234Z info: 🟢 Middlewares configurated
+2023-10-24T18:12:20.236Z info: 🟢 Routes registered
+2023-10-24T18:12:20.241Z info: 🟢 app listening on the port" 3000 
+2023-10-24T18:12:20.256Z info: 🟢 Connected to the database
+2023-10-24T18:12:52.009Z info: 🟢 Middlewares configurated
+2023-10-24T18:12:52.012Z info: 🟢 Routes registered
+2023-10-24T18:12:52.017Z info: 🟢 app listening on the port" 3000 
+2023-10-24T18:12:52.033Z info: 🟢 Connected to the database
+2023-10-24T18:14:05.488Z info: 🟢 Middlewares configurated
+2023-10-24T18:14:05.490Z info: 🟢 Routes registered
+2023-10-24T18:14:05.496Z info: 🟢 app listening on the port" 3000 
+2023-10-24T18:14:05.512Z info: 🟢 Connected to the database
+2023-10-24T18:16:11.273Z info: 🟢 Middlewares configurated
+2023-10-24T18:16:11.276Z info: 🟢 Routes registered
+2023-10-24T18:16:11.281Z info: 🟢 app listening on the port" 3000 
+2023-10-24T18:16:11.295Z info: 🟢 Connected to the database
+2023-10-24T20:46:27.075Z info: 🟢 Middlewares configurated
+2023-10-24T20:46:27.078Z info: 🟢 Routes registered
+2023-10-24T20:46:27.083Z info: 🟢 app listening on the port" 3000 
+2023-10-24T20:46:27.101Z info: 🟢 Connected to the database
